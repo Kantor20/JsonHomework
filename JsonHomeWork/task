@@ -1,0 +1,7 @@
+        //Stwórz jsona z samochodem, samochod ma marke, model, pojemnosc
+         silnika, info czy ma turbo oraz liste wyposazen
+        //wyposazenie ma nazwe i cene
+
+        //Stwórz 3 jsony z informacjami o autach, nastepnie wcyztaj je i wrzuc na liste i znajdz najdrozsze auto (na podstawie wyspoazenia)
+
+        //Stwórz obiekt samochod i zapisz go do formatu json
