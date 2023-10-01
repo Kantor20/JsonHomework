@@ -1,9 +1,6 @@
 package pl.kurs.java.model;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.ToString;
+import lombok.*;
 
 import java.util.List;
 
@@ -11,11 +8,11 @@ import java.util.List;
 @NoArgsConstructor
 @Getter
 @ToString
-
+@Builder
 public class Car {
     private String name;
     private String model;
-    private int capacity;
+    private double capacity;
     private boolean turbo;
     private List<Equipment> equipment;
 }

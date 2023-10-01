@@ -7,6 +7,7 @@ import lombok.*;
 @Getter
 @ToString
 @EqualsAndHashCode
+@Builder
 public class Equipment {
     private String name;
     private double price;
