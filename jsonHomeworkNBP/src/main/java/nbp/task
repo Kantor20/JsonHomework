@@ -1,0 +1,14 @@
+// http://api.nbp.pl/api/exchangerates/rates/c/usd/2016-04-04/?format=json
+
+//  http://api.nbp.pl/api/exchangerates/rates/a/gbp/last/10/?format=json
+/*
+napisz srwis dla kursow, przykladowe metody:
+co lepiej byloby kupic od daty do daty (na cyzm bysmy lepiej zarobili, np czy euro czy dolary)
+znalezc najwiekszy kurs w zakresie dat np dla euro czy dolara
+znalezc srednia srednich kursow GBP
+znalezx max i min sredni kurs GBP
+rozwinac apke:
+https://dev.mysql.com/downloads/windows/installer/8.0.html
+https://mansfeld.pl/bazy-danych/typy-danych-mysql/
+intelija ultimatea
+*/
